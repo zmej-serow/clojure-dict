@@ -1,3 +1,0 @@
-a simple DICT(rfc 2229) implementation in clojure.
-
-doesn't have support for SASL auth or OPTION MIME, supports everything else.
