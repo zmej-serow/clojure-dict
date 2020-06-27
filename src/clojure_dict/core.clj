@@ -1,5 +1,6 @@
-(ns anthony.dict.dictclient
-  (import (java.net Socket)
+(ns clojure-dict.core
+  (:import
+    (java.net Socket)
     (java.io OutputStreamWriter BufferedWriter InputStreamReader BufferedReader))
   (:require [clojure.string :as str]))
 
